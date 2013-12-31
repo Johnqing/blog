@@ -1,6 +1,6 @@
 {
   "docs" : ["posts"],
-  "template" : "slate",
+  "template" : "pithiness",
   //"domain_alias" : ["your.domain"],
   "perpage" : 10,
   "order" : "number",
