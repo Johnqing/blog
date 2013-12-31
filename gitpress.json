@@ -10,8 +10,8 @@
     "\\.html?$" : "html",
     ".*" : "text"
   },
-  "title" : "Akira's Blog",
-  "description" : "My Blog Description...",
+  "title" : "johnqing's Blog",
+  "description" : "描述描述",
   "comment" : "on",
   "friends" : [
   {
